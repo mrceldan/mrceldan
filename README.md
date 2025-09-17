@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Marcella Dantas!
 
-<!--
-**mrceldan/mrceldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – 2º semestre  
+💻 Interesse em **Desenvolvimento de Software**  
+🚀 Atualmente aprendendo **Java, JavaScript, TypeScript, HTML, CSS, SQL e Angular**  
+✨ Em busca de oportunidades para aplicar conhecimentos e crescer na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Marcella GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcldan&show_icons=true&theme=radical)
+
+---
+
+## 📌 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcldan&layout=compact&theme=radical)
+
+---
+
+## 🔗 Conecte-se comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcella-dantas-a49475332)  
+- ✉️ mahsouza8@icloud.com  
+
+---
