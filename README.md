@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Marcella Dantas!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – 2º semestre  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – 3º semestre  
 💻 Interesse em **Desenvolvimento de Software**  
 🚀 Atualmente aprendendo **Java, JavaScript, TypeScript, HTML, CSS, SQL e Angular**  
 ✨ Em busca de oportunidades para aplicar conhecimentos e crescer na área de tecnologia  
