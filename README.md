@@ -8,12 +8,12 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Marcella GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcldan&show_icons=true&theme=radical)
+![Marcella GitHub stats](https://github-readme-stats.vercel.app/api?username=mrceldan&show_icons=true&theme=radical)
 
 ---
 
 ## 📌 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrcldan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrceldan&layout=compact&theme=radical)
 
 ---
 
