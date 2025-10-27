@@ -18,7 +18,7 @@
 ---
 
 ## 🔗 Conecte-se comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcella-dantas-a49475332)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mrceldan)  
 - ✉️ mahsouza8@icloud.com  
 
 ---
